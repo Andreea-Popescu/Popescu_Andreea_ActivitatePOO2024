@@ -1,4 +1,4 @@
-﻿  Seminar2.cpp
-  seminar3.cpp
-  Generating Code...
+﻿  Seminar4.cpp
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar4.cpp(34,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar4.cpp(73,1): warning C4715: 'Cofetarie::getSalariu': not all control paths return a value
   SeminarPOO.vcxproj -> C:\Users\andre\Source\Repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\x64\Debug\SeminarPOO.exe

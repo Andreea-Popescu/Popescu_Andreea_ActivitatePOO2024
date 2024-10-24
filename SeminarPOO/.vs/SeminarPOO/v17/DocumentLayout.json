@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2C2FCD8-8FCD-4DA7-9D36-EFE4E9DAEAC9}|SeminarPOO.vcxproj|C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2C2FCD8-8FCD-4DA7-9D36-EFE4E9DAEAC9}|SeminarPOO.vcxproj|solutionrelative:Seminar4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2C2FCD8-8FCD-4DA7-9D36-EFE4E9DAEAC9}|SeminarPOO.vcxproj|C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\seminar3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2C2FCD8-8FCD-4DA7-9D36-EFE4E9DAEAC9}|SeminarPOO.vcxproj|solutionrelative:seminar3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Seminar4.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar4.cpp",
+              "RelativeDocumentMoniker": "Seminar4.cpp",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar4.cpp*",
+              "RelativeToolTip": "Seminar4.cpp*",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAQwHgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T14:02:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Seminar2.cpp",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar2.cpp",
               "RelativeDocumentMoniker": "Seminar2.cpp",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar2.cpp*",
-              "RelativeToolTip": "Seminar2.cpp*",
-              "ViewState": "AQIAACkAAAAAAAAAAAAiwFkAAAADAAAA",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\Seminar2.cpp",
+              "RelativeToolTip": "Seminar2.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwFoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T14:05:10.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "seminar3.cpp",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\seminar3.cpp",
               "RelativeDocumentMoniker": "seminar3.cpp",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\seminar3.cpp*",
-              "RelativeToolTip": "seminar3.cpp*",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAABdAAAA",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Popescu_Andreea_ActivitatePOO2024\\SeminarPOO\\seminar3.cpp",
+              "RelativeToolTip": "seminar3.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T13:33:49.51Z",
               "EditorCaption": ""
