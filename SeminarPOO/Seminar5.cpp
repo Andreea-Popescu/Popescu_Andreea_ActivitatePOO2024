@@ -208,7 +208,7 @@ int main() {
 	//Cofetarie c4 = c2;
 	//Cofetarie c5;
 	////c5 = c2;
-	//c2 = c2;
+	//c2 = c2
 
 	Cofetarie c1;
 	Cofetarie c2("Minimal", 3, false, 2020, 10);
