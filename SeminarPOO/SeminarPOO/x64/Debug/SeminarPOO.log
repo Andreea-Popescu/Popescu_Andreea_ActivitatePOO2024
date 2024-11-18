@@ -1,5 +1,6 @@
-﻿  seminar6.cpp
-C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\seminar6.cpp(30,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\seminar6.cpp(277,13): warning C4101: 'exceptie': unreferenced local variable
-C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\seminar6.cpp(280,15): warning C4101: 'exceptie': unreferenced local variable
+﻿  Seminar8.cpp
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar8.cpp(244,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar8.cpp(475,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar8.cpp(510,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar8.cpp(809,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
   SeminarPOO.vcxproj -> C:\Users\andre\Source\Repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\x64\Debug\SeminarPOO.exe
