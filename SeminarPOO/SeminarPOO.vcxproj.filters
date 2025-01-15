@@ -57,5 +57,14 @@
     <ClCompile Include="Task_Suplim4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Task_Suplim5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Suplim6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Suplim7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
