@@ -1,4 +1,29 @@
-﻿  Task_Suplim5.cpp
-  Task_Suplim6.cpp
-  Generating Code...
+﻿  Seminar13.cpp
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(42,13): warning C4244: '+=': conversion from '_Ty2' to 'int', possible loss of data
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(42,13): warning C4244:         with
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(42,13): warning C4244:         [
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(42,13): warning C4244:             _Ty2=float
+C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(42,13): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         ]
+  (compiling source file 'Seminar13.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54):
+      the template instantiation context (the oldest one first) is
+          C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(31,36):
+          see reference to function template instantiation 'std::pair<std::string,float>::pair<const char(&)[6],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[6],
+              _Other2=int
+          ]
+              C:\Users\andre\source\repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\Seminar13.cpp(31,16):
+              see the first reference to 'std::pair<std::string,float>::pair' in 'main'
+  
   SeminarPOO.vcxproj -> C:\Users\andre\Source\Repos\Popescu_Andreea_ActivitatePOO2024\SeminarPOO\x64\Debug\SeminarPOO.exe
